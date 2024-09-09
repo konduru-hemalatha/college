@@ -1,4 +1,4 @@
 # college
 this is my first repository.
 <br>
-author - hemalatha
+author - hemalatha(konduru)
